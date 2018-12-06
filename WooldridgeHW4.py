@@ -3,7 +3,7 @@ Nick Wooldridge
 9/5/18
 Software Engineering CS4500
 Python 3.7.0
-Outputs to HW3wooldridgeOutfile.txt
+
 Shown below is a pyramid of integers. Think of this pyramid painted on a 
 chalk board. You start a “game” by placing your finger at the 1. Then you 
 roll a fair dice with exactly 4 sides, labeled UL, UR, DL, and DR. 
